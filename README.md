@@ -6,6 +6,7 @@ Design by Tiago Costa (https://dribbble.com/shots/2843043-Franz-Landing-Page/att
 ## Features
 1. CSS animations
 2. Mobile responsive
+3. FontAwesome
 
 ## Previews
 
